@@ -12,8 +12,15 @@ Bienvenue au cours GLO2003 de l'Université Laval! Vous trouverez ici l'ensemble
 - [Configuration de projets](https://github.com/glo2003/atelier-setups)
 - [Tests](https://github.com/glo2003/UTournament)
 - [TDD](https://github.com/glo2003/Exercice-TDD-string-calculator)
-- Hibernate
+- [Hibernate](https://github.com/glo2003/atelier-hibernate)
 
 ## Laboratoires
 
-_Contenu à venir_.
+- [2](https://github.com/glo2003/H23-Labo2)
+- [3](https://github.com/glo2003/H23-Labo3)
+- [4](https://github.com/glo2003/H23-Labo4)
+- [5](https://github.com/glo2003/H23-Labo5)
+- [6](https://github.com/glo2003/H23-Labo6)
+- [8](https://github.com/glo2003/H23-Labo8)
+- [9](https://github.com/glo2003/H23-Labo9)
+- [10](https://github.com/glo2003/H23-Labo10)
