@@ -1,10 +1,10 @@
 # GLO2003 - Processus de Génie Logiciel
 
-Bienvenue au cours GLO2003 de l'Université Laval! Vous trouverez ici l'ensemble du contenu nécessaire à la réalisation des projets, des laboratoires ainsi que des ateliers pour la session d'hiver 2023!
+Bienvenue au cours GLO2003 de l'Université Laval! Vous trouverez ici l'ensemble du contenu nécessaire à la réalisation des projets, des laboratoires ainsi que des ateliers pour la session d'hiver 2024!
 
 ## Projet
 
-- [Énoncé](https://github.com/glo2003/H23-Enonce)
+- Énoncé
 
 ## Ateliers
 
@@ -16,11 +16,4 @@ Bienvenue au cours GLO2003 de l'Université Laval! Vous trouverez ici l'ensemble
 
 ## Laboratoires
 
-- [2](https://github.com/glo2003/H23-Labo2)
-- [3](https://github.com/glo2003/H23-Labo3)
-- [4](https://github.com/glo2003/H23-Labo4)
-- [5](https://github.com/glo2003/H23-Labo5)
-- [6](https://github.com/glo2003/H23-Labo6)
-- [8](https://github.com/glo2003/H23-Labo8)
-- [9](https://github.com/glo2003/H23-Labo9)
-- [10](https://github.com/glo2003/H23-Labo10)
+- 
