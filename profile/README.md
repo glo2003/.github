@@ -16,4 +16,4 @@ Bienvenue au cours GLO2003 de l'Université Laval! Vous trouverez ici l'ensemble
 
 ## Laboratoires
 
-- 
+- [Labo 1](https://github.com/glo2003/H24-lab1)
