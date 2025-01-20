@@ -1,6 +1,6 @@
 # GLO2003 - Processus de Génie Logiciel
 
-Bienvenue au cours GLO2003 de l'Université Laval! Vous trouverez ici l'ensemble du contenu nécessaire à la réalisation des projets, des laboratoires ainsi que des ateliers pour la session d'hiver 2024!
+Bienvenue au cours GLO2003 de l'Université Laval! Vous trouverez ici l'ensemble du contenu nécessaire à la réalisation des projets, des laboratoires ainsi que des ateliers pour la session d'hiver 2025!
 
 ## Projet
 
@@ -15,4 +15,4 @@ Bienvenue au cours GLO2003 de l'Université Laval! Vous trouverez ici l'ensemble
 
 ## Laboratoires
 
-À venir
+- [Labo1](https://github.com/glo2003/laboratoires/tree/master/labo1)
