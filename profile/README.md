@@ -4,7 +4,7 @@ Bienvenue au cours GLO2003 de l'Université Laval! Vous trouverez ici l'ensemble
 
 ## Projet
 
-- Énoncé (À venir)
+- [Énoncés](https://github.com/glo2003/H25-enonces)
 
 ## Ateliers
 
