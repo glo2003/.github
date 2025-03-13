@@ -17,3 +17,4 @@ Bienvenue au cours GLO2003 de l'Université Laval! Vous trouverez ici l'ensemble
 
 - [Labo1](https://github.com/glo2003/H25-labo1)
 - [Labo6](https://github.com/glo2003/H25-labo6)
+- [Labo8]()
