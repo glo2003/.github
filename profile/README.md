@@ -18,3 +18,4 @@ Bienvenue au cours GLO2003 de l'Université Laval! Vous trouverez ici l'ensemble
 - [Labo1](https://github.com/glo2003/labo1)
 - [Labo6](https://github.com/glo2003/labo6)
 - [Labo8](https://github.com/glo2003/labo8)
+- [Labo9](https://github.com/glo2003/labo9)
