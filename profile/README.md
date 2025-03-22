@@ -9,8 +9,8 @@ Bienvenue au cours GLO2003 de l'Université Laval! Vous trouverez ici l'ensemble
 ## Ateliers
 
 - [Clean code - version longue](https://github.com/glo2003/Exercice-CleanCode-Refactoring) ([Clean code - version courte](https://github.com/glo2003/Exercice-CleanCode-Refactoring-Court))
+- [Tests - UTournement](https://github.com/glo2003/UTournament)
 - [Configuration de projets](https://github.com/glo2003/atelier-setups)
-- [Tests](https://github.com/glo2003/UTournament)
 - [TDD](https://github.com/glo2003/Exercice-TDD-string-calculator)
 
 ## Laboratoires
