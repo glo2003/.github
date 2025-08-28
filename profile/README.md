@@ -1,10 +1,10 @@
-# GLO2003 - Processus de Génie Logiciel
+# IFT-3003 - Méthodologies de développement logiciel
 
-Bienvenue au cours GLO2003 de l'Université Laval! Vous trouverez ici l'ensemble du contenu nécessaire à la réalisation des projets, des laboratoires ainsi que des ateliers pour la session d'hiver 2025!
+Bienvenue au cours IFT-3003 de l'Université Laval! Vous trouverez ici l'ensemble du contenu nécessaire à la réalisation des projets, des laboratoires ainsi que des ateliers pour la session d'automne 2025!
 
 ## Projet
 
-- [Énoncés](https://github.com/glo2003/H25-enonces)
+- À venir
 
 ## Ateliers
 
@@ -16,6 +16,3 @@ Bienvenue au cours GLO2003 de l'Université Laval! Vous trouverez ici l'ensemble
 ## Laboratoires
 
 - [Labo1](https://github.com/glo2003/labo1)
-- [Labo6](https://github.com/glo2003/labo6)
-- [Labo8](https://github.com/glo2003/labo8)
-- [Labo9](https://github.com/glo2003/labo9)
