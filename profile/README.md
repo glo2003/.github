@@ -4,7 +4,7 @@ Bienvenue au cours IFT-3003 de l'Université Laval! Vous trouverez ici l'ensembl
 
 ## Projet
 
-- À venir
+- [Énoncé](https://github.com/glo2003/A25-enonces)
 
 ## Ateliers
 
