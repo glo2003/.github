@@ -1,6 +1,6 @@
-# GLO-2003 - Processus du génie logiciel
+# GLO-2003-IFT-3003 - Processus du génie logiciel
 
-Bienvenue au cours GLO-2003 de l'Université Laval! Vous trouverez ici l'ensemble du contenu nécessaire à la réalisation des projets, des laboratoires ainsi que des ateliers pour la session d'hiver 2026!
+Bienvenue au cours GLO-2003/IFT-3003 de l'Université Laval! Vous trouverez ici l'ensemble du contenu nécessaire à la réalisation des projets, des laboratoires ainsi que des ateliers pour la session d'hiver 2026!
 
 ## Projet
 
