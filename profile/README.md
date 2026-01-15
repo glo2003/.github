@@ -15,4 +15,4 @@ Bienvenue au cours GLO-2003/IFT-3003 de l'Université Laval! Vous trouverez ici 
 
 ## Laboratoires
 
-- [Labo1 - À venir]()
+- [Labo1]()
