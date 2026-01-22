@@ -5,6 +5,7 @@ Bienvenue au cours GLO-2003/IFT-3003 de l'Université Laval! Vous trouverez ici 
 ## Projet
 
 - [Énoncé - À venir]()
+- [Starter Code Repo](https://github.com/glo2003/H26-Floppa-Starter)
 
 ## Ateliers
 
