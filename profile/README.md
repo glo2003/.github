@@ -9,7 +9,7 @@ Bienvenue au cours GLO-2003/IFT-3003 de l'Université Laval! Vous trouverez ici 
 
 ## Ateliers
 
-- [Clean code - version longue](https://github.com/glo2003/Exercice-CleanCode-Refactoring) ([Clean code - version courte](https://github.com/glo2003/Exercice-CleanCode-Refactoring-Court))
+- [Clean code - version courte](https://github.com/glo2003/Exercice-CleanCode-Refactoring-Court) ([Clean code - version longue](https://github.com/glo2003/Exercice-CleanCode-Refactoring))
 - [Tests - UTournement](https://github.com/glo2003/UTournament)
 - [Configuration de projets](https://github.com/glo2003/atelier-setups)
 - [TDD](https://github.com/glo2003/Exercice-TDD-string-calculator)
