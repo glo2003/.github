@@ -18,3 +18,4 @@ Bienvenue au cours GLO-2003/IFT-3003 de l'Université Laval! Vous trouverez ici 
 
 - [Labo1](https://github.com/glo2003/labo1)
 - [Labo6](https://github.com/glo2003/labo6)
+- [Labo8](https://github.com/glo2003/labo8)
